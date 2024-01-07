@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "gArjgaLNNHPV0x71ibUITiMw4o+8fAT2jsHTiTBBidBlp0cl6jEYTCY+oGUe/jxaG9GzXdPa+NuTW5P3UQN97g==",
+  "success": true,
+  "projectFilePath": "/Users/macbookpro/Projects/POC/POC/POC.MiniIoC/POC.MiniIoC.csproj",
+  "expectedPackageFiles": [
+    "/Users/macbookpro/.nuget/packages/microsoft.netcore.app.ref/6.0.25/microsoft.netcore.app.ref.6.0.25.nupkg.sha512",
+    "/Users/macbookpro/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.25/microsoft.aspnetcore.app.ref.6.0.25.nupkg.sha512"
+  ],
+  "logs": []
+}

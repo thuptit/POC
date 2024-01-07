@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Samples/1.0.0": {
+        "dependencies": {
+          "POC.MiniIoC": "1.0.0"
+        },
+        "runtime": {
+          "Samples.dll": {}
+        }
+      },
+      "POC.MiniIoC/1.0.0": {
+        "runtime": {
+          "POC.MiniIoC.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Samples/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "POC.MiniIoC/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
