@@ -9,3 +9,15 @@
 /Users/macbookpro/Projects/POC/POC/POC.MiniIoC/obj/Debug/net6.0/refint/POC.MiniIoC.dll
 /Users/macbookpro/Projects/POC/POC/POC.MiniIoC/obj/Debug/net6.0/POC.MiniIoC.pdb
 /Users/macbookpro/Projects/POC/POC/POC.MiniIoC/obj/Debug/net6.0/ref/POC.MiniIoC.dll
+D:\projects\POC\POC.MiniIoC\bin\Debug\net6.0\POC.MiniIoC.deps.json
+D:\projects\POC\POC.MiniIoC\bin\Debug\net6.0\POC.MiniIoC.dll
+D:\projects\POC\POC.MiniIoC\bin\Debug\net6.0\POC.MiniIoC.pdb
+D:\projects\POC\POC.MiniIoC\obj\Debug\net6.0\POC.MiniIoC.GeneratedMSBuildEditorConfig.editorconfig
+D:\projects\POC\POC.MiniIoC\obj\Debug\net6.0\POC.MiniIoC.AssemblyInfoInputs.cache
+D:\projects\POC\POC.MiniIoC\obj\Debug\net6.0\POC.MiniIoC.AssemblyInfo.cs
+D:\projects\POC\POC.MiniIoC\obj\Debug\net6.0\POC.MiniIoC.csproj.CoreCompileInputs.cache
+D:\projects\POC\POC.MiniIoC\obj\Debug\net6.0\POC.MiniIoC.sourcelink.json
+D:\projects\POC\POC.MiniIoC\obj\Debug\net6.0\POC.MiniIoC.dll
+D:\projects\POC\POC.MiniIoC\obj\Debug\net6.0\refint\POC.MiniIoC.dll
+D:\projects\POC\POC.MiniIoC\obj\Debug\net6.0\POC.MiniIoC.pdb
+D:\projects\POC\POC.MiniIoC\obj\Debug\net6.0\ref\POC.MiniIoC.dll
