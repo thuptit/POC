@@ -8,6 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = Samples
-build_property.ProjectDir = /Users/macbookpro/Projects/POC/POC/Samples/
+build_property.ProjectDir = D:\projects\POC\Samples\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 

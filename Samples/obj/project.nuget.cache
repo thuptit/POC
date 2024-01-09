@@ -1,12 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "nspTYH40ABg86JlJ9eeuDaM7XOPxJk1gzbuLsVNdqCB79CLR03ZAboUPu4Xr4NN+zj+9yxJ03sUasbO43phiAw==",
+  "dgSpecHash": "kupqcYpninCMNVYiZa5iNs4PPbbCaisULDsaav1ZEHVJuEgxuDAnSYpsAuhDT4f0ty2lC4dw3/b9SVMja4Cg7g==",
   "success": true,
-  "projectFilePath": "/Users/macbookpro/Projects/POC/POC/Samples/Samples.csproj",
-  "expectedPackageFiles": [
-    "/Users/macbookpro/.nuget/packages/microsoft.netcore.app.ref/6.0.25/microsoft.netcore.app.ref.6.0.25.nupkg.sha512",
-    "/Users/macbookpro/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.25/microsoft.aspnetcore.app.ref.6.0.25.nupkg.sha512",
-    "/Users/macbookpro/.nuget/packages/microsoft.netcore.app.host.osx-arm64/6.0.25/microsoft.netcore.app.host.osx-arm64.6.0.25.nupkg.sha512"
-  ],
+  "projectFilePath": "D:\\projects\\POC\\Samples\\Samples.csproj",
+  "expectedPackageFiles": [],
   "logs": []
 }

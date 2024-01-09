@@ -8,24 +8,27 @@
     "net6.0": []
   },
   "packageFolders": {
-    "/Users/macbookpro/.nuget/packages/": {}
+    "C:\\Users\\laptopkhanhtran.vn\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/macbookpro/Projects/POC/POC/POC.MiniIoC/POC.MiniIoC.csproj",
+      "projectUniqueName": "D:\\projects\\POC\\POC.MiniIoC\\POC.MiniIoC.csproj",
       "projectName": "POC.MiniIoC",
-      "projectPath": "/Users/macbookpro/Projects/POC/POC/POC.MiniIoC/POC.MiniIoC.csproj",
-      "packagesPath": "/Users/macbookpro/.nuget/packages/",
-      "outputPath": "/Users/macbookpro/Projects/POC/POC/POC.MiniIoC/obj/",
+      "projectPath": "D:\\projects\\POC\\POC.MiniIoC\\POC.MiniIoC.csproj",
+      "packagesPath": "C:\\Users\\laptopkhanhtran.vn\\.nuget\\packages\\",
+      "outputPath": "D:\\projects\\POC\\POC.MiniIoC\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "/Users/macbookpro/.nuget/NuGet/NuGet.Config"
+        "C:\\Users\\laptopkhanhtran.vn\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "net6.0"
       ],
       "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "C:\\Program Files\\dotnet\\library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -54,22 +57,12 @@
         ],
         "assetTargetFallback": true,
         "warn": true,
-        "downloadDependencies": [
-          {
-            "name": "Microsoft.AspNetCore.App.Ref",
-            "version": "[6.0.25, 6.0.25]"
-          },
-          {
-            "name": "Microsoft.NETCore.App.Ref",
-            "version": "[6.0.25, 6.0.25]"
-          }
-        ],
         "frameworkReferences": {
           "Microsoft.NETCore.App": {
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.100/RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100\\RuntimeIdentifierGraph.json"
       }
     }
   }
